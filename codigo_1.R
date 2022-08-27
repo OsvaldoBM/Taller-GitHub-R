@@ -20,6 +20,13 @@
   # Modificacion 2
   # Modificacion 3
   
+  # ###################################
+  # Ejercicio 1
+  # 1. Clonar este repositorio
+  # 2. Modificar el codigo del repo
+  # 3. Hacer un Push
+  # ######################################
+  
   
   
   
