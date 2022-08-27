@@ -33,6 +33,23 @@
   
   
   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  plot(df, main="Matriz correlación")## Gráfico
   
   
   
