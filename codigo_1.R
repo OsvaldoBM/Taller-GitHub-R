@@ -27,16 +27,4 @@
   # 2. Modificar el codigo del repo
   # 3. Hacer un Push (subir los cambios a GitHub)
 
-  
-  
-  
-  
-  
-  
-  
-  
-  # PULL REQUEST
-  
-
-  # Nueva modificacion
 
